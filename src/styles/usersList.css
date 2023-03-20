@@ -1,0 +1,33 @@
+
+
+.count_user{
+  display: flex;
+  margin-top: 20px;
+  padding-left: 15px;
+}
+
+.user_image{
+  width: 75px;
+  height: 75px;
+}
+
+.user__name{
+  color: black;
+  font-size: 16px;
+  font-weight: initial;
+  padding-left: 15px;
+}
+
+.user__mail{
+  font-size: 12px;
+  color: gray;
+  padding-left: 15px;
+}
+
+.paginate__users{
+  display: flex;
+}
+
+.button__paginate{
+  margin-right: 10px;
+}
